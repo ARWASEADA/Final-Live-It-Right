@@ -36,7 +36,9 @@ This version of the project is maintained and documented by **Arwa Seada**  — 
 ---------------
 ## 📬 Contact
 If you have any questions or feedback, feel free to reach out:
- **Email**:  arwaseada5@gmail.com 
- **LinkedIn**:https://www.linkedin.com/in/arwa-seada-a0b38725b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+ - Email:  arwaseada5@gmail.com 
+
+ - LinkedIn:https://www.linkedin.com/in/arwa-seada-a0b38725b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ------------------
 💡 This project was developed as part of our graduation from Tanta University, BIS Department.
